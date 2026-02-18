@@ -1,3 +1,4 @@
+// Muhammad Rohan Ali 2380246
 List<({String word, int frequency})> findWordFrequencies(String sentence) {
   if (sentence.trim().isEmpty) {
     return [];
@@ -76,3 +77,4 @@ void main() {
     }
   }
 }
+
